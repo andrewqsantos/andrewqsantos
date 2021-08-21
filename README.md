@@ -1,15 +1,21 @@
-## Olá! Eu sou o Andrew Quenehen 🖖
- <div>
-  <a href="https://github.com/andrewqsantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewqsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewqsantos&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Andy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Andy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Andy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Andy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
-  
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  Olá! Eu sou o Andrew Quenehen 🖖 <strong>Engenheiro da Computação</strong>.<br>
+  Atualmente no 8º semestre da faculdade de Engenharia da Computação, e estagiando no desenvolvimento na [Tata Consultancy Services](https://www.tcs.com/)
+</p>
+
+<p align="left">
+  🦄 Linguagens: Estudando as linguagens: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="ProtonMail">
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=andrewqsantos@pm.me" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewqsantos/" /></a>
+
+  <a href="#" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/andrewqsantos"/></a>
+</p>  
