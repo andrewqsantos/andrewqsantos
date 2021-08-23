@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <h1>Olá! Eu sou o Andrew Quenehen 🖖</h1>
+  <h2>Olá! Eu sou o Andrew Quenehen 🖖</h2>
   Sou estudante de Engenharia da Computação e iniciante na programação. Atualmente estagiando na TCS, líder mundial de T.I
 </p>
 
