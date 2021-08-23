@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Estudando as linguagens: ⤵
+  🦄 Sempre no aprendizado das linguagens: ⤵
 </p>
 
 <p align="left">
