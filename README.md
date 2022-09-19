@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <h2>Olá! Eu sou o Andrew Quenehen 🖖</h2>
-  Sou estudante de Engenharia da Computação e iniciante na programação. Atualmente estagiando na TCS, líder mundial de T.I
+  Sou estudante de Engenharia da Computação. Atualmente na TCS | Vale, líder mundial de T.I
 </p>
 
 <p align="left">
